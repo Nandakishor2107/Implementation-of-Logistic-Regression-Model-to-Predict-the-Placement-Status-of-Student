@@ -17,13 +17,43 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: 
-RegisterNumber:  
+Developed by: Nanda Kishor S P
+RegisterNumber:  212224040210
 */
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+
+### Head Values - DataFrame
+![alt text](<Screenshot 2025-04-20 183809.png>)  
+
+### Head Values - DataFrame Copy(Dropped)
+![alt text](<Screenshot 2025-04-20 201248.png>)  
+
+### Sum - Null Values
+![alt text](<Screenshot 2025-04-20 201341.png>)  
+
+### Sum - Duplicated
+![alt text](<Screenshot 2025-04-20 201441.png>)  
+
+### DataFrame - LabelEncoded
+![alt text](<Screenshot 2025-04-20 201613.png>)  
+
+### Predicted Y values
+![alt text](<Screenshot 2025-04-20 201713.png>)  
+
+### Accuracy Score
+![alt text](<Screenshot 2025-04-20 201817.png>)  
+
+### Confusion Matrix
+![alt text](<Screenshot 2025-04-20 202038.png>)
+![alt text](<Screenshot 2025-04-20 202056.png>)  
+
+### Classification Report
+![alt text](<Screenshot 2025-04-20 202205.png>)  
+
+### Model Prediction for input
+![alt text](<Screenshot 2025-04-20 202903.png>)  
 
 
 ## Result:
